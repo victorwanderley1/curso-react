@@ -4,6 +4,9 @@
 
 - Routers
 - Components
+- States
+- Hooks
+- Props
 - LocalStorage
 - Utilizacao de API externa
 - TalwindCSS
